@@ -10,16 +10,16 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Atari</text>
-  </text>
+    <text>Atari   Inc.</text>
+ </text>
   <text name="sys_line2" extra="true">
-    <text>Jaguar</text>
-</text>
+    <text>Atari Jaguar</text>
+  </text>    
   <text name="shortdescription" extra="true">
    <text>1993  ·  64-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sixth and last programmable console to be developed under the Atari brand, Atari marketed the Jaguar as being the first 64-bit video game console</text>
+   <text>Sixth and last programmable console to be developed under the Atari brand, Atari marketed the Jaguar as being the first 64-bit video game console.</text>
   </text>
  </view>
 </theme>
