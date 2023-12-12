@@ -4,24 +4,24 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Nintendo Entertainment System</text>
+    <text>Famicom Disk System</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Nintendo Entertainment</text>
+    <text>Nintendo</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>System</text>
+    <text>Famicom</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1983  ·  8-bit Console</text>
+   <text>1986  ·  8-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The best selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983</text>
+   <text>The Family Computer (also known by the portmanteau abbreviation Famicom) was the Japanese version of the Nintendo Entertainment System</text>
   </text>
  </view>
 </theme>

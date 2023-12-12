@@ -10,7 +10,7 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Nintendo     Super</text>
+    <text>Nintendo   Super</text>
 </text>
   <text name="sys_line2" extra="true">
     <text>Famicom</text>
