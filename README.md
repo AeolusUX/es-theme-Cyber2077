@@ -1,6 +1,6 @@
-# ArkOS Thee Cyber2077 based on EpicNoir & EpicCody
+# ArkOS Theme Cyber2077 based on EpicNoir & EpicCody
 Emulation Station theme fit for R35S & R36S
-fork of the EpicNoir modified to fit the R35S & R36S
+Fork of the EpicNoir modified to fit the R35S & R36S
 
 Thanks to Chicuelo and Nick L (c64-dev) for the EpicNoir .
 
