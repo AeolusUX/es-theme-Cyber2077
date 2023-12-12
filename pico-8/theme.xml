@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>PICO 8</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Pixel Games</text>
+</text>
+  <text name="sys_line2" extra="true">
+    <text>PICO-8</text>
+</text> 
+  <text name="shortdescription" extra="true">
+   <text>2003  ·  Pixel Engine</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>PICO-8 is a virtual machine and game engine that mimics the limited graphical and sound capabilities of 8-bit systems of the 1980s to encourage creativity and ingenuity in producing games without being overwhelmed with the many possibilities of modern tools and machines.</text>
+  </text>
+ </view>
+</theme>
