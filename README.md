@@ -75,32 +75,32 @@ System II | ✔️
 System III | ✔️
 Dreamcast | ✔️
 Famicom | ✔️
-Famicom Disk |  
+Famicom Disk |  ✔️
 GB | ✔️
 GBC | ✔️
 GBA | ✔️
 GENESIS | ✔️
-Jaguar |  
-MAME 2003 |  
+Jaguar |  ✔️
+MAME 2003 |  ✔️
 Megadrive | ✔️
-N64 |  
-NDS |  
+N64 |  ✔️
+NDS |  ✔️
 NEO GEO | ✔️
-Neo Geo Pocket |  
-Neo Geo PocketColor |  
+Neo Geo Pocket |  ✔️
+Neo Geo PocketColor |  ✔️
 NES | ✔️
 PC Engine | ✔️
 PC Engine CD | ✔️
-Ports |  
+Ports |  ✔️
 Sony PSP | ✔️
 PlayStation | ✔️
 Retroarch | ✔️
-Sega Naomi |  
+Sega Naomi |  ✔️
 Super Famicom | ✔️
 SNES | ✔️
-Turbografix |  
-Turbografix CD |  
-Wonderswan |  
+Turbografix |  ✔️
+Turbografix CD |  ✔️
+Wonderswan |  ✔️
 Favorites | ✔️
 Last Played | ✔️
 
