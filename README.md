@@ -37,3 +37,76 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 * Support for screenshots/boxart and/or video.
 
 ###### [back to top](https://github.com/AeolusUX/ArkOS-theme-Cyber2077)
+
+
+---
+### Compatibility Information
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File
+href="file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip.htm">
+<link rel=File-List
+href="file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml">
+
+</head>
+
+<body link="#0563C1" vlink="#954F72">
+
+
+Consoles Available | ✔️ Means Available
+-- | --
+Arcade Classics | ✔️
+Atari 2600 | ✔️
+Atari 5200 | ✔️
+Atari 7800 | ✔️
+Atari Lynx | ✔️
+Atari ST | ✔️
+Commodore64 | ✔️
+Coleco Vision | ✔️
+System I | ✔️
+System II | ✔️
+System III | ✔️
+Dreamcast | ✔️
+Famicom | ✔️
+Famicom Disk |  
+GB | ✔️
+GBC | ✔️
+GBA | ✔️
+GENESIS | ✔️
+Jaguar |  
+MAME 2003 |  
+Megadrive | ✔️
+N64 |  
+NDS |  
+NEO GEO | ✔️
+Neo Geo Pocket |  
+Neo Geo PocketColor |  
+NES | ✔️
+PC Engine | ✔️
+PC Engine CD | ✔️
+Ports |  
+Sony PSP | ✔️
+PlayStation | ✔️
+Retroarch | ✔️
+Sega Naomi |  
+Super Famicom | ✔️
+SNES | ✔️
+Turbografix |  
+Turbografix CD |  
+Wonderswan |  
+Favorites | ✔️
+Last Played | ✔️
+
+
+
+</body>
+
+</html>
+
