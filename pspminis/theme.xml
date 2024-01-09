@@ -4,12 +4,13 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Playstation Portable</text>
+    <text>SONY PSP MINIS</text>
   </text>
 </view>    
 
 <view name="system">
-
+  <text name="sys_line1" extra="true">
+    <text>SONY</text>
   <text name="sys_line2" extra="true">
     <text>PSP Minis</text>
 
@@ -18,7 +19,7 @@
    <text>2004  ·  32-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
+   <text>Remember those small square games on your PSP? These were PSP Minis, bite-sized games similar to what you'd find on a mobile phone.</text>
   </text>
  </view>
 </theme>
