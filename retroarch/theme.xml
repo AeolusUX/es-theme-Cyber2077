@@ -4,13 +4,17 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Options</text>
+    <text>RetroArch Settings</text>
   </text>
 </view>    
 
 <view name="system">
-  <text name="sys_line2" extra="true">
+  <text name="sys_line1" extra="true">
     <text>Retroarch</text>
+
+  </text> 
+  <text name="sys_line2" extra="true">
+    <text>Settings</text>
 
   </text> 
   <text name="shortdescription" extra="true">

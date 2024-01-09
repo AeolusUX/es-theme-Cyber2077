@@ -4,11 +4,15 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Options</text>
+    <text>Device Options</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Device</text>
+
+  </text> 
   <text name="sys_line2" extra="true">
     <text>Options</text>
 

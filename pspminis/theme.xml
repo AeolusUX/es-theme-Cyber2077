@@ -4,13 +4,14 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>SONY PSP MINIS</text>
+    <text>Playstation Portable</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>SONY</text>
+    <text>Sony</text>
+</text>
   <text name="sys_line2" extra="true">
     <text>PSP Minis</text>
 
