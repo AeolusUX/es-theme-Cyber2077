@@ -103,7 +103,16 @@ Turbografix CD |  ✔️
 Wonderswan |  ✔️
 Favorites | ✔️
 Last Played | ✔️
-
+MS DOS | ✔️
+Supergrafx | ✔️
+Famicom Disk System | ✔️
+Nintendo 64DD | ✔️
+Virtual Boy | ✔️
+Sega 32x | ✔️
+Intellivision | ✔️
+Vectrex | ✔️
+MSX | ✔️
+MSX2 | ✔️
 
 
 </body>
