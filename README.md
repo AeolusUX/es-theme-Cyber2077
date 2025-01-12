@@ -115,6 +115,8 @@ Intellivision | ✔️
 Vectrex | ✔️
 MSX | ✔️
 MSX2 | ✔️
+OpenBOR | ✔️
+Game and Watch | ✔️
 
 
 </body>
