@@ -123,3 +123,6 @@ Game and Watch | ✔️
 
 </html>
 
+# Donate
+🎮☕ Loving my work? Let’s power up together – buy me a coffee! 🕹️✨  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7TMKNX)
