@@ -295,21 +295,21 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 		<text name="clock">
 		<color>00f6df</color>
 		<fontSize>0.035</fontSize>
-		<pos>0.740 0.002</pos>
+		<pos>0.740 0.04</pos>
 		<size>0.2 0.09</size>
 		<alignment>right</alignment>
 		<verticalAlignment>center</verticalAlignment>
 		</text>
 <!-- Battery Indicator Icon x,y --> 
     <batteryIndicator name="batteryIndicator">
-      <pos>0.840 0.05</pos>
-      <size>0.06 0.06</size>
-      <incharge>./art/battery/incharge.svg</incharge>
-      <full>./art/battery/full.svg</full>
-      <at75>./art/battery/75.svg</at75>
-      <at50>./art/battery/50.svg</at50>
-      <at25>./art/battery/25.svg</at25>
-      <empty>./art/battery/empty.svg</empty>
+      <pos>0.840 0.01</pos>
+      <size>0.07 0.07</size>
+      <incharge>./_art/battery/incharge.svg</incharge>
+      <full>./_art/battery/full.svg</full>
+      <at75>./_art/battery/75.svg</at75>
+      <at50>./_art/battery/50.svg</at50>
+      <at25>./_art/battery/25.svg</at25>
+      <empty>./_art/battery/empty.svg</empty>
       <color>00f6df</color>
     </batteryIndicator>
 	
