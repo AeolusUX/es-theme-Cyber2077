@@ -9,6 +9,9 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>NEC</text>
+  </text>   
   <text name="sys_line2" extra="true">
     <text>SuperGrafx</text>
 

@@ -10,11 +10,11 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Wonderswan</text>
+    <text>Bandai</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>Color</text>
+    <text>Wonderswan</text>
 
 </text>
   <text name="shortdescription" extra="true">

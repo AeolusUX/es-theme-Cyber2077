@@ -135,9 +135,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <pos>0.35 0.65</pos>
         <maxSize>0.33 0.33</maxSize>
     </image>
+
 </view>
 
-<view name="basic, detailed, video">
+<view name="basic,detailed,video">
 
     <image name="background" extra="true">
         <tile>false</tile>
@@ -180,7 +181,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 <!-- Console Name --> 
 
-
     <text name="nameLabel" extra="true">
         <fontPath>./_art/Bison-Bold.ttf</fontPath>
         <alignment>right</alignment>
@@ -193,16 +193,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <zIndex>32</zIndex>
     </text>
 
-<!--    <text name="md_description">
-        <fontPath>./_art/Acre.otf</fontPath>
-	    <color>ffffff</color>
-        <fontSize>0.026</fontSize>
-	    <alignment>left</alignment>
-        <forceUppercase>0</forceUppercase>
-        <lineSpacing>1</lineSpacing>
-	    <pos>0.339 0.75</pos>
-	    <size>0.66 0.17</size>
-    </text> -->
     
 <!-- Define metadata -->
 
@@ -300,18 +290,20 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </view>
 </feature>
 
-   <view name="screen">
-    <text name="clock">
-      <color>FFFFFF</color>
-      <fontSize>0.035</fontSize>
-      <pos>0.910 0.01</pos>
-      <size>0.09 0.058</size>
-      <alignment>right</alignment>
-      <verticalAlignment>center</verticalAlignment>
-    </text>
+	<view name="screen">
+<!-- System Clock Icon w,h --> 
+		<text name="clock">
+		<color>00f6df</color>
+		<fontSize>0.035</fontSize>
+		<pos>0.740 0.002</pos>
+		<size>0.2 0.09</size>
+		<alignment>right</alignment>
+		<verticalAlignment>center</verticalAlignment>
+		</text>
+<!-- Battery Indicator Icon x,y --> 
     <batteryIndicator name="batteryIndicator">
-      <pos>0.845 0.01</pos>
-      <size>0.033 0.033</size>
+      <pos>0.840 0.05</pos>
+      <size>0.06 0.06</size>
       <incharge>./art/battery/incharge.svg</incharge>
       <full>./art/battery/full.svg</full>
       <at75>./art/battery/75.svg</at75>
@@ -321,13 +313,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <color>00f6df</color>
     </batteryIndicator>
 	
-
-<!-- Battery Indicator Icon x,y --> 
-    <batteryIndicator name="batteryIndicator" tinyScreen="true">
-      <pos>0.840 0.02</pos>
-      <size>0.07 0.07</size>
-    </batteryIndicator>
-  </view>
+	</view>
+	
 	
   <view name="menu">
     <menuBackground name="menubg">
@@ -343,5 +330,5 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <active>./_art/assets/textinput_active.png</active>
     </menuTextEdit>
   </view>
-	
+  
 </theme>
