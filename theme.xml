@@ -331,4 +331,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </menuTextEdit>
   </view>
   
+  <subset name="gamelist-view-style" displayName="Gamelist View Style">
+   <include name="basic" displayName="Basic" />
+   <include name="detailed" displayName="Detailed" />
+   <include name="video" displayName="Video" />
+  </subset>
+
+  
 </theme>
