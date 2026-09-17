@@ -4,24 +4,28 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Coleco Vision</text>
+    <text>ColecoVision</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
     <text>Coleco</text>
-
+    <fontSize>0.09</fontSize>
+    <origin>0 0</origin>
+    <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Vision</text>
-
+    <text>ColecoVision</text>
+    <fontSize>0.12</fontSize>
+    <origin>0 0</origin>
+    <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
    <text>1982  ·  8-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The ColecoVision offered a closer experience to more powerful arcade game systems compared to competitors such as the Atari 2600</text>
+   <text>The ColecoVision offered a closer experience to more powerful arcade game systems compared to competitors such as the Atari 2600.</text>
   </text>
  </view>
 </theme>
